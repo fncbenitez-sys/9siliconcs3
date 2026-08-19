@@ -11,7 +11,7 @@
 [View my Computational Thinking Exercise](q1/ctskillsSiliconBenitez.md)
 
 ### Chinese Zodiac
-[View my Chinese Zodiac Exercise](q1/zodiacSiliconBenitez.md)
+[View my Chinese Zodiac Exercise](q1/zodiacSiliconBenitez.py)
 
 ### OOP Concept ILA
 [View my OOP Concept ILA](q1/ila_oop.md)
