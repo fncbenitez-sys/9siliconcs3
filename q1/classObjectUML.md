@@ -18,7 +18,7 @@
 |Ignore  |Ignores the student if there are no false values          |
 
 ## Class Diagram
-![Class Diagram Part 1](q1/images/classDiagram1.png), [Class Diagram Part 2](q1/images/classDiagram2.png)
+![Class Diagram Part 1](images/classDiagram1.png), [Class Diagram Part 2](images/classDiagram2.png)
 ## Design Explanation
 ### Why did you choose this class?
 ###     > To help people check if they're in violation of the code of conduct
