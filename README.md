@@ -17,7 +17,7 @@
 [View my OOP Concept ILA](q1/ila_oop.md)
 
 ### OOP Activity Part I
-[View my OOP Activity Part I](q1\classObjectUML.md)
+[View my OOP Activity Part I](q1/classObjectUML.md)
 
 ### OOP Activity Part II
-[View my OOP Activity Part II](q1\classAttributesMethods.md)
+[View my OOP Activity Part II](q1/classAttributesMethods.md)
