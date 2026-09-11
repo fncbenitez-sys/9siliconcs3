@@ -19,10 +19,13 @@
 
 ## Class Diagram
 ![Class Diagram Part 1](images/classDiagram1.png), ![Class Diagram Part 2](images/classDiagram2.png)
+
 ## Design Explanation
 ### Why did you choose this class?
-###     > To help people check if they're in violation of the code of conduct
+###     > To help students check if they're in violation of the code of conduct
+
 ### Which property is the most important? Why?
 ###     > Hair color, it is one of the most obvious and easy to notice property of the human student.
+
 ### Which method is the most useful? Why?
 ###     > Warn, it tells the student that they could be violated next time if they don't change their [enter violated property here]
