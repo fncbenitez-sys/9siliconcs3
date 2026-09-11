@@ -21,3 +21,6 @@
 
 ### OOP Activity Part II
 [View my OOP Activity Part II](q1/classAttributesMethods.md)
+
+### OOP Activity Part III
+[View my Computational Thinking Exercise](q1/classRelationships.md)
