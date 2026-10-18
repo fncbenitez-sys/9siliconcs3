@@ -7,23 +7,8 @@
 ---
 # Quarter 1
 ## Activities
-### Computational Thinking Skills
-[View my Computational Thinking Exercise](q1/ctskillsSiliconBenitez.md)
+### [View my Quarter 1 Activities](q1/README_q1.md)
 
-### Chinese Zodiac
-[View my Chinese Zodiac Exercise](q1/zodiacSiliconBenitez.py)
-
-### OOP Concept ILA
-[View my OOP Concept ILA](q1/ila_oop.md)
-
-### OOP Activity Part I
-[View my OOP Activity Part I](q1/classObjectUML.md)
-
-### OOP Activity Part II
-[View my OOP Activity Part II](q1/classAttributesMethods.md)
-
-### OOP Activity Part III
-[View my OOP Activity Part III](q1/classRelationships.md)
-
-### OOP Activity Part IV
-[View my OOP Activity Part IV](q1/advancedRelationships.md)
+# Quarter 2
+## Activities
+### [View my Quarter 2 Activities](q2/README_q2.md)
