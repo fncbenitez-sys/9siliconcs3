@@ -1,7 +1,7 @@
 class BankAccount:
                                                                       # Constructor method that initializes a new BankAccount object with account_number and balance
     def __init__(self, account_number: int, balance: float):
-        self.__account_number = 60612
+        self.__account_number = 0
         self.__balance = 0.0
 
         self.set_account_number(account_number)
@@ -31,6 +31,9 @@ class BankAccount:
 
                                                                        # sample/test run vv
 if __name__ == "__main__":
+    a1.BankAccount = 282947
+    a1.Balance = 100.00                                                # Create an object of class BankAccount taking values directly via input functions
+
     print("\nAccount 1")
     print(f"Account Number: {a1.account_number}")
     print(f"Balance: {a1.balance:.2f}\n")
